@@ -1,5 +1,6 @@
 # Text-Summerizer 
 
+## dataset link : https://github.com/imran-0513/dataset/raw/main/samsumdata.zip
 ## Workflows
 
 1. Update config.yaml
