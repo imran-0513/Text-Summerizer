@@ -1,3 +1,3 @@
-from textSummerizer.logging import logger
-logger.info("welcome to our custom logging")
+from textSummerizer.logging import Logger
+Logger.info("welcome to our custom logging")
 
